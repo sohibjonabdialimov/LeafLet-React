@@ -3,7 +3,7 @@ import { MapContainer, ImageOverlay, Marker, Popup } from 'react-leaflet';
 import img from "./assets/img.jfif";
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import mapImage from './assets/garden.jpg';
+import mapImage from './assets/tree.svg';
 
 function Leaflet() {
 
